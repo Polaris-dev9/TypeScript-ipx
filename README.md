@@ -118,3 +118,4 @@ Config can be customized using `IPX_*` environment variables.
 [bundle-href]: https://bundlephobia.com/result?p=ipx
 [license-src]: https://img.shields.io/github/license/unjs/ipx.svg?style=flat&colorA=18181B&colorB=F0DB4F
 [license-href]: https://github.com/unjs/ipx/blob/main/LICENSE
+
